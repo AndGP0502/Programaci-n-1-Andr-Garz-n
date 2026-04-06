@@ -1,2 +1,3 @@
-# Programaci-n-1-Andr-Garz-n
+# Programacion-1-Andre-Garzon
 Ejercicios y deberes de programación 1
+Profe Carlos Guaita
